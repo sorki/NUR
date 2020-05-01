@@ -244,6 +244,9 @@
         "sondr3": {
             "url": "https://github.com/sondr3/nix-expressions"
         },
+        "sorki": {
+            "url": "https://github.com/sorki/nur-packages"
+        },
         "splintah": {
             "url": "https://gitlab.com/splintah/nurpkgs"
         },
